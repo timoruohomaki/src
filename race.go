@@ -28,6 +28,8 @@ func main() {
 
 		go adder()
 		go adder()
+		go adder()
+		go adder()
 
 		// adder()
 		// adder()
